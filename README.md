@@ -2,6 +2,8 @@
 
 [![Spectrum](./public/img/media.png)](https://spectrum.chat)
 
+[![Scorecards supply-chain security](https://github.com/neu-ro-it/spectrum/actions/workflows/scorecards.yml/badge.svg)](https://securityscorecards.dev/)
+
 ### Simple, powerful online communities.
 
 </div>
